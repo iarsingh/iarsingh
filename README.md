@@ -1,19 +1,22 @@
-## Hi there, I'm Akhilesh 👋
+## Hi, I'm Akhilesh Ranjan Singh 👋
 
-I'm a DevOps / Cloud engineer working across **GCP, Terraform, Docker, and Kubernetes**, with hands-on experience building CI/CD pipelines and automating infrastructure.
+Senior DevOps & Platform Engineer — **GCP · Kubernetes · Terraform · CI/CD · DevSecOps** — with hands-on MLOps / AI infrastructure experience on top of that foundation.
 
-- 🔧 Core stack: Google Cloud Platform, Terraform, Docker, Kubernetes, Jenkins, Ansible, CI/CD
-- 🌱 Currently deepening my skills in MLOps / LLMOps — operationalizing ML and LLM workloads on top of the same cloud/infra foundations
-- 🧪 This profile hosts a few small learning and practice repos (Jenkins pipelines, data-structures practice, coding-challenge solutions)
-- 💬 Happy to talk about infrastructure automation, Kubernetes, CI/CD design, or cloud cost/reliability trade-offs
-- 📫 Reach me via GitHub
+- 🔧 Core stack: Google Cloud Platform, Terraform, Kubernetes, Docker, Helm, Jenkins, GitHub Actions, GitOps, Ansible
+- 🔐 Also: cloud security & governance (IAM, Cloud Armor, DevSecOps), observability (Prometheus, Grafana, ELK, OpenTelemetry)
+- 🌱 Extending into MLOps / AI infrastructure — model serving, MLflow, Kubernetes-native ML platforms
+- 📄 Resume: [iarsingh.github.io/profile](https://iarsingh.github.io/profile/)
+- 💼 Open to Senior DevOps / Platform Engineer roles
 
-### Repos on this profile
+### Flagship projects
 
-| Repo | About |
+| Repo | What it shows |
 |---|---|
-| [jenkins](https://github.com/iarsingh/jenkins) | Jenkins / CI-CD experiments |
-| [LearningDS](https://github.com/iarsingh/LearningDS) | Data structures learning/practice |
-| [HurdleRace.java](https://github.com/iarsingh/HurdleRace.java) | Java coding-challenge practice |
-| [Magic-with-table](https://github.com/iarsingh/Magic-with-table) | Small practice project |
-| [coursera-test](https://github.com/iarsingh/coursera-test) | Coursera course scratch repo |
+| [terraform-gcp-platform](https://github.com/iarsingh/terraform-gcp-platform) | Reusable Terraform + Kubernetes patterns for GCP/GKE provisioning — namespaces, service accounts, guardrails, autoscaling |
+| [gitops-kubernetes-deployment](https://github.com/iarsingh/gitops-kubernetes-deployment) | GitOps-driven Kubernetes deployment workflows |
+| [github-actions-devops-templates](https://github.com/iarsingh/github-actions-devops-templates) | Reusable GitHub Actions CI/CD pipeline templates for DevOps workflows |
+| [kubernetes-mlops-platform](https://github.com/iarsingh/kubernetes-mlops-platform) | Kubernetes-native MLOps platform patterns — model serving, artifact storage, inference autoscaling |
+| [mlops-zoomcamp](https://github.com/iarsingh/mlops-zoomcamp) | MLOps coursework and hands-on labs |
+| [ai-mock-interviewer](https://github.com/iarsingh/ai-mock-interviewer) | Voice-led AI mock interview practice for DevOps, SRE, Cloud, Platform, and MLOps roles |
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/profile/)
