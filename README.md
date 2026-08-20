@@ -1,3 +1,9 @@
+# Akhilesh Ranjan Singh — GitHub Profile
+
+<!-- repository-summary -->
+GitHub profile showcasing DevOps, GCP, Kubernetes, Terraform, platform engineering, SRE, MLOps, and AI infrastructure work.
+<!-- /repository-summary -->
+
 ## Hi, I'm Akhilesh Ranjan Singh 👋
 
 Senior DevOps & Platform Engineer — **GCP · Kubernetes · Terraform · CI/CD · DevSecOps** — with hands-on MLOps / AI infrastructure experience on top of that foundation.
