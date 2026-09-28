@@ -11,7 +11,7 @@ Senior DevOps & Platform Engineer — **GCP · Kubernetes · Terraform · CI/CD 
 - 🔧 Core stack: Google Cloud Platform, Terraform, Kubernetes, Docker, Helm, Jenkins, GitHub Actions, GitOps, Ansible
 - 🔐 Also: cloud security & governance (IAM, Cloud Armor, DevSecOps), observability (Prometheus, Grafana, ELK, OpenTelemetry)
 - 🌱 Extending into MLOps / AI infrastructure — model serving, MLflow, Kubernetes-native ML platforms
-- 📄 Resume: [iarsingh.github.io/profile](https://iarsingh.github.io/profile/)
+- 📄 Resume: [iarsingh.github.io](https://iarsingh.github.io/)
 - 💼 Open to Senior DevOps / Platform Engineer roles
 
 ### Flagship projects
@@ -25,4 +25,4 @@ Senior DevOps & Platform Engineer — **GCP · Kubernetes · Terraform · CI/CD 
 | [mlops-zoomcamp](https://github.com/iarsingh/mlops-zoomcamp) | MLOps coursework and hands-on labs |
 | [ai-mock-interviewer](https://github.com/iarsingh/ai-mock-interviewer) | Voice-led AI mock interview practice for DevOps, SRE, Cloud, Platform, and MLOps roles |
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/profile/)
+📫 Reach me: [LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/)
