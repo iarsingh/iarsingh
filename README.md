@@ -1,28 +1,39 @@
-# Akhilesh Ranjan Singh — GitHub Profile
+# Hi, I'm Akhilesh Ranjan Singh
 
-<!-- repository-summary -->
-GitHub profile showcasing DevOps, GCP, Kubernetes, Terraform, platform engineering, SRE, MLOps, and AI infrastructure work.
-<!-- /repository-summary -->
+## Forward Deployed Engineer | AI & Data Systems | GCP · Kubernetes · Python
 
-## Hi, I'm Akhilesh Ranjan Singh 👋
+I bring seven years of cloud engineering experience to building AI and data solutions around customer workflows. My foundation is GCP, Kubernetes, Terraform, CI/CD, SRE, and MLOps; my focus is turning an operational problem into a working integration with clear success criteria, security controls, and a practical handoff.
 
-Senior DevOps & Platform Engineer — **GCP · Kubernetes · Terraform · CI/CD · DevSecOps** — with hands-on MLOps / AI infrastructure experience on top of that foundation.
+**Open to Forward Deployed Engineer and Applied AI Engineer roles.**
 
-- 🔧 Core stack: Google Cloud Platform, Terraform, Kubernetes, Docker, Helm, Jenkins, GitHub Actions, GitOps, Ansible
-- 🔐 Also: cloud security & governance (IAM, Cloud Armor, DevSecOps), observability (Prometheus, Grafana, ELK, OpenTelemetry)
-- 🌱 Extending into MLOps / AI infrastructure — model serving, MLflow, Kubernetes-native ML platforms
-- 📄 Resume: [iarsingh.github.io](https://iarsingh.github.io/)
-- 💼 Open to Senior DevOps / Platform Engineer roles
+### How I approach an engagement
 
-### Flagship projects
+- **Discover the workflow:** identify the operator, sponsor, baseline, and constraint that shapes the solution.
+- **Build the integration:** connect APIs, exports, and existing systems; choose AI where it helps and deterministic rules where correctness matters.
+- **Deploy with care:** define data boundaries, access controls, evaluation gates, observability, and rollback.
+- **Measure and hand over:** agree on success criteria, write a customer readout, and leave runbooks an operator can use.
 
-| Repo | What it shows |
-|---|---|
-| [terraform-gcp-platform](https://github.com/iarsingh/terraform-gcp-platform) | Reusable Terraform + Kubernetes patterns for GCP/GKE provisioning — namespaces, service accounts, guardrails, autoscaling |
-| [gitops-kubernetes-deployment](https://github.com/iarsingh/gitops-kubernetes-deployment) | GitOps-driven Kubernetes deployment workflows |
-| [github-actions-devops-templates](https://github.com/iarsingh/github-actions-devops-templates) | Reusable GitHub Actions CI/CD pipeline templates for DevOps workflows |
-| [kubernetes-mlops-platform](https://github.com/iarsingh/kubernetes-mlops-platform) | Kubernetes-native MLOps platform patterns — model serving, artifact storage, inference autoscaling |
-| [mlops-zoomcamp](https://github.com/iarsingh/mlops-zoomcamp) | MLOps coursework and hands-on labs |
-| [ai-mock-interviewer](https://github.com/iarsingh/ai-mock-interviewer) | Voice-led AI mock interview practice for DevOps, SRE, Cloud, Platform, and MLOps roles |
+### Featured FDE case studies
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/)
+These are simulated customer engagements with fictional organizations and sample data. They demonstrate engineering decisions and runnable workflows; they do not claim live customer deployments or measured business results.
+
+| Project | Customer problem and engineering decision |
+| --- | --- |
+| [Harborline dispatch copilot](https://github.com/iarsingh/fde-harborline-engagement) | Combine shipment exports, tickets, and SOPs into cited dispatch guidance while keeping data local and avoiding external model calls. Includes discovery, evaluation, security, rollout, and customer readout docs. |
+| [Payment reconciliation](https://github.com/iarsingh/fde-ledger-reconcile) | Reconcile duplicate webhooks and settlement files with idempotent matching; route amount mismatches to an exception queue. |
+| [Clinic intake](https://github.com/iarsingh/fde-clinic-intake) | Route after-hours notes with consent checks and minimal audit data; keep the workflow focused on routing rather than diagnosis. |
+| [Vendor review](https://github.com/iarsingh/fde-vendor-review) | Flag incomplete packets and bank-detail changes while keeping acceptance with a human reviewer. |
+| [FDE engagement playbook](https://github.com/iarsingh/fde-engagement-playbook) | Reusable discovery, success metrics, solution design, security review, rollout/rollback, weekly readout, and retrospective templates. |
+
+### Cloud and platform foundation
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Terraform GCP platform](https://github.com/iarsingh/terraform-gcp-platform) | Multi-environment GCP foundations, Shared VPC, private GKE, IAM, Cloud NAT, observability, and security controls. |
+| [Customer onboarding platform](https://github.com/iarsingh/customer-onboarding-platform) | Customer onboarding gates that keep a tenant blocked until security checks pass. |
+| [AI incident investigation](https://github.com/iarsingh/ai-incident-investigation) | Evidence-backed incident hypotheses without presenting an unconfirmed root cause as fact. |
+| [upSkilling portfolio](https://github.com/iarsingh/upSkilling) | Broader hands-on work across cloud platforms, SRE, MLOps, RAG, automation, and AI infrastructure. |
+
+**Tools:** Python, FastAPI, GCP, Kubernetes/GKE, Terraform, Docker, Helm, GitHub Actions, Jenkins, GitOps, Ansible, MLflow, Prometheus, and Grafana.
+
+[LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/profile/) · [FDE playbook](https://github.com/iarsingh/fde-engagement-playbook)
