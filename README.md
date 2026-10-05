@@ -1,5 +1,14 @@
 # Hi, I'm Akhilesh Ranjan Singh
 
+<!-- project-guide:start -->
+## Project guide
+
+[Project architecture](PROJECT_ARCHITECTURE.md) · [Interview questions and answers](INTERVIEW_QA.md)
+
+This checkout currently contains a README rather than executable project code. The architecture document records that scope, and the interview guide explains what can be discussed today and what an implementation would need.
+
+<!-- project-guide:end -->
+
 ## Forward Deployed Engineer | AI & Data Systems | GCP · Kubernetes · Python
 
 I bring seven years of cloud engineering experience to building AI and data solutions around customer workflows. My foundation is GCP, Kubernetes, Terraform, CI/CD, SRE, and MLOps; my focus is turning an operational problem into a working integration with clear success criteria, security controls, and a practical handoff.
