@@ -52,3 +52,11 @@ Public labs, not production tenants. Retrieval is local; cluster apply stays off
 **Tools:** Python, FastAPI, GCP, Kubernetes/GKE, Terraform, Docker, Helm, GitHub Actions, Jenkins, GitOps, Ansible, MLflow, Prometheus, and Grafana.
 
 [LinkedIn](https://linkedin.com/in/iamarsingh) · [Resume](https://iarsingh.github.io/) · [FDE playbook](https://github.com/iarsingh/fde-engagement-playbook)
+
+## Documentation checks
+
+Project guides and local source links are checked on pushes and pull requests. Run locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
